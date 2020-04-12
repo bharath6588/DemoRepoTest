@@ -7,7 +7,7 @@ public class BasePage {
 		System.out.println("Test");
 		System.out.println("Test2");
 		System.out.println("Test3");
-		System.out.println("PR");
+		System.out.println("PR - Pull Request");
 
 	}
 
